@@ -5,3 +5,5 @@ Created a Trivia game using JavaScript for the logic and jQuery to manipulate HT
 
 Technologies Utilized
 HTML5 CSS3 JavaScript JQuery
+
+Link to game --> https://bfields216.github.io/TriviaGame/.
