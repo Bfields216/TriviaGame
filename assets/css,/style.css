@@ -24,3 +24,11 @@
     border: solid;
     width: 40%;
 }
+#nfl{
+    background: #b402027e;
+}
+
+#gameOver {
+	display: none;
+	margin-top: 50px;
+}
